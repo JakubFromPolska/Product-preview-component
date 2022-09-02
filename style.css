@@ -1,0 +1,114 @@
+@import url(https://fonts.google.com/specimen/Montserrat);
+@import url(https://fonts.google.com/specimen/Fraunces);
+
+body 
+{ 
+	max-width: 1080px; 
+	margin: 0 auto !important; 
+	float: none !important; 
+    background-color: #f2eae2;
+}
+
+p
+{
+    font-size: 14px;
+
+}
+
+img
+{
+    border-radius:12px;
+    float: left;
+    position: absolute;
+    width: 260px;
+    height: auto;
+    margin-top: 000px;
+    margin-bottom:120px;
+   
+
+}
+
+#box
+{
+    
+    float:center;
+    border-radius: 12px;
+    margin-top: 15%;
+    margin-left: 20%;
+    background-color: #ffffff;
+    width: 520px;
+    height: 390px;
+}
+
+#P
+{
+    font-family: 'Montserrat' ;
+    float:inline-end;
+    font-size: 12px;
+    margin-right: 30%;
+    margin-top: 5%;
+    color: rgba(0, 0, 0, 0.587);
+}
+#paragraph
+{
+    font-family: 'Montserrat' ;
+    float:inline-end;
+    margin-right: 3%;
+    margin-top: 3%;
+    color: rgba(0, 0, 0, 0.587);
+}
+
+h1
+{
+    font-family: 'Fraunces';
+    margin-left: 54%;
+    font-weight: 700;
+    line-height: 88%;
+
+}
+
+#cost
+{
+    font-family: 'Fraunces' ;
+    font-size: 27px;
+    float:inline-end;
+    color:#3C8067;
+    margin-right: -22%;
+    margin-top: 20%;
+  
+
+}
+
+#costold
+{
+
+    font-family: 'Montserrat' ;
+    float:inline-end;
+    text-decoration: line-through;
+    margin-right: -35%;
+    margin-top: 22%;
+    color: rgba(0, 0, 0, 0.587);
+}
+
+#cart
+{
+    width: 15px;
+    height:auto;
+    float:inline-end;
+    margin-left: 23%;
+    margin-top: 12%;
+}
+
+button
+{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    float:inline-end;
+    height: 42px;
+    width: 213px;
+    border-radius: 12px;
+    color: #ffffff;
+    background-color: #3C8067;
+    margin-right: -42%;
+    margin-top: 30%;
+}
