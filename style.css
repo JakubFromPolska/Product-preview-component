@@ -92,11 +92,12 @@ h1
 
 #cart
 {
+    display:flex;
     width: 15px;
     height:auto;
     float:inline-end;
-    margin-left: 23%;
-    margin-top: 12%;
+    margin-left: 21%;
+    margin-top: 11%;
 }
 
 button
